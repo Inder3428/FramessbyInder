@@ -17,7 +17,7 @@ const images: Record<string, Image[]> = {
   portraits: [
     {
       id: '1',
-      url: '/Public/Images/Potraits/Laibadesi1.jpg',
+      url: '/public/Images/Potraits/Laibadesi1.jpg',
       category: 'portraits',
       subcategory: 'outdoor',
       title: 'Outdoor Portrait',
@@ -25,7 +25,7 @@ const images: Record<string, Image[]> = {
     },
     {
       id: '2',
-      url: '/Public/Images/Potraits/laibadesi2.jpg',
+      url: '/public/Images/Potraits/laibadesi2.jpg',
       category: 'portraits',
       subcategory: 'outdoor',
       title: 'Outdoor Portrait',
@@ -33,7 +33,7 @@ const images: Record<string, Image[]> = {
     },
     {
       id: '3',
-      url: '/Public/Images/Potraits/laibadesi3.jpg',
+      url: '/public/Images/Potraits/laibadesi3.jpg',
       category: 'portraits',
       subcategory: 'outdoor',
       title: 'Outdoor Portrait',
@@ -41,7 +41,7 @@ const images: Record<string, Image[]> = {
     },
     {
       id: '4',
-      url: '/Public/Images/Potraits/laibadesi4.jpg',
+      url: '/public/Images/Potraits/laibadesi4.jpg',
       category: 'portraits',
       subcategory: 'outdoor',
       title: 'Outdoor Portrait',
@@ -49,7 +49,7 @@ const images: Record<string, Image[]> = {
     },
     {
       id: '5',
-      url: '/Public/Images/Potraits/laibadesi5.jpg',
+      url: '/public/Images/Potraits/laibadesi5.jpg',
       category: 'portraits',
       subcategory: 'headshot',
       title: 'Headshot Portrait',
@@ -57,7 +57,7 @@ const images: Record<string, Image[]> = {
     },
     {
       id: '6',
-      url: '/Public/Images/Potraits/NoorDesi.JPG',
+      url: '/public/Images/Potraits/NoorDesi.JPG',
       category: 'portraits',
       subcategory: 'outdoor',
       title: 'Outdoor Portrait',
@@ -65,7 +65,7 @@ const images: Record<string, Image[]> = {
     },
     {
       id: '7',
-      url: '/Public/Images/Potraits/NoorDesi1.JPG',
+      url: '/public/Images/Potraits/NoorDesi1.JPG',
       category: 'portraits',
       subcategory: 'headshot',
       title: 'Headshot Portrait',
@@ -73,7 +73,7 @@ const images: Record<string, Image[]> = {
     },
     {
       id: '8',
-      url: '/Public/Images/Potraits/Noor.JPG',
+      url: '/public/Images/Potraits/Noor.JPG',
       category: 'portraits',
       subcategory: 'headshot',
       title: 'Headshot Portrait',
@@ -81,7 +81,7 @@ const images: Record<string, Image[]> = {
     },
     {
       id: '9',
-      url: '/Public/Images/Potraits/NoorDesi3.JPG',
+      url: '/public/Images/Potraits/NoorDesi3.JPG',
       category: 'potraits',
       subcategory:'headshot',
       title: 'Headshot Potrait',
@@ -89,7 +89,7 @@ const images: Record<string, Image[]> = {
     },
     {
       id: '10',
-      url: '/Public/Images/Potraits/NoorDesi4.JPG',
+      url: '/public/Images/Potraits/NoorDesi4.JPG',
       category: 'potraits',
       subcategory:'headshot',
       title: 'Headshot Potrait',
@@ -97,7 +97,7 @@ const images: Record<string, Image[]> = {
     },
     {
       id: '11',
-      url: '/Public/Images/Potraits/NoorDesi5.JPG',
+      url: '/public/Images/Potraits/NoorDesi5.JPG',
       category: 'potraits',
       subcategory:'headshot',
       title: 'Headshot Potrait',
@@ -105,7 +105,7 @@ const images: Record<string, Image[]> = {
     },
     {
       id: '12',
-      url: '/Public/Images/Potraits/NoorDesi6.JPG',
+      url: '/public/Images/Potraits/NoorDesi6.JPG',
       category: 'potraits',
       subcategory:'headshot',
       title: 'Headshot Potrait',
@@ -113,7 +113,7 @@ const images: Record<string, Image[]> = {
     },
     {
       id: '13',
-      url: '/Public/Images/Potraits/NoorDesi8.JPG',
+      url: '/public/Images/Potraits/NoorDesi8.JPG',
       category: 'potraits',
       subcategory:'headshot',
       title: 'Headshot Potrait',
@@ -128,7 +128,7 @@ const images: Record<string, Image[]> = {
   street: [
     {
       id: '1',
-      url: '/Public/Images/Street/Street (9).jpg',
+      url: '/public/Images/Street/Street (9).jpg',
       category: 'street',
       subcategory: 'urban',
       title: 'Urban Life',
@@ -136,7 +136,7 @@ const images: Record<string, Image[]> = {
     },
     {
       id: '2',
-      url: '/Public/Images/Street/Street (10).jpg',
+      url: '/public/Images/Street/Street (10).jpg',
       category: 'street',
       subcategory: 'architecture',
       title: 'City Architecture',
@@ -144,7 +144,7 @@ const images: Record<string, Image[]> = {
     },
     {
       id: '3',
-      url: '/Public/Images/Street/Street (8).jpg',
+      url: '/public/Images/Street/Street (8).jpg',
       category: 'street',
       subcategory: 'night',
       title: 'Night Street',
@@ -152,7 +152,7 @@ const images: Record<string, Image[]> = {
     },
     {
       id: '4',
-      url: '/Public/Images/Street/Street (12).jpg',
+      url: '/public/Images/Street/Street (12).jpg',
       category: 'street',
       subcategory: 'night',
       title: 'Night Street',
@@ -160,7 +160,7 @@ const images: Record<string, Image[]> = {
     },
     {
       id: '5',
-      url: '/Public/Images/Street/Street (11).jpg',
+      url: '/public/Images/Street/Street (11).jpg',
       category: 'street',
       subcategory: 'urban',
       title: 'Urban Life',
@@ -168,7 +168,7 @@ const images: Record<string, Image[]> = {
     },
     {
       id: '6',
-      url: '/Public/Images/Street/Street (14).jpg',
+      url: '/public/Images/Street/Street (14).jpg',
       category: 'street',
       subcategory: 'urban',
       title: 'Urban Life',
@@ -176,7 +176,7 @@ const images: Record<string, Image[]> = {
     },
     {
       id: '7',
-      url: '/Public/Images/Street/Street (13).jpg',
+      url: '/public/Images/Street/Street (13).jpg',
       category: 'street',
       subcategory: 'urban',
       title: 'Urban Life',
@@ -184,7 +184,7 @@ const images: Record<string, Image[]> = {
     },
     {
       id: '8',
-      url: '/Public/Images/Street/Street (6).jpg',
+      url: '/public/Images/Street/Street (6).jpg',
       category: 'street',
       subcategory: 'urban',
       title: 'Urban Life',
@@ -192,7 +192,7 @@ const images: Record<string, Image[]> = {
     },
     {
       id: '9',
-      url: '/Public/Images/Street/Street (4).jpg',
+      url: '/public/Images/Street/Street (4).jpg',
       category: 'street',
       subcategory: 'urban',
       title: 'Urban Life',
@@ -200,7 +200,7 @@ const images: Record<string, Image[]> = {
     },
     {
       id: '10',
-      url: '/Public/Images/Street/Street (7).jpg',
+      url: '/public/Images/Street/Street (7).jpg',
       category: 'street',
       subcategory: 'urban',
       title: 'Urban Life',
@@ -208,7 +208,7 @@ const images: Record<string, Image[]> = {
     },
     {
       id: '11',
-      url: '/Public/Images/Street/Street (3).jpg',
+      url: '/public/Images/Street/Street (3).jpg',
       category: 'street',
       subcategory: 'urban',
       title: 'Urban Life',
@@ -216,7 +216,7 @@ const images: Record<string, Image[]> = {
     },
     {
       id: '12',
-      url: '/Public/Images/Street/Street (5).jpg',
+      url: '/public/Images/Street/Street (5).jpg',
       category: 'street',
       subcategory: 'urban',
       title: 'Urban Life',
@@ -224,7 +224,7 @@ const images: Record<string, Image[]> = {
     },
     {
       id: '13',
-      url: '/Public/Images/Street/Street (2).jpg',
+      url: '/public/Images/Street/Street (2).jpg',
       category: 'street',
       subcategory: 'urban',
       title: 'Urban Life',
@@ -232,7 +232,7 @@ const images: Record<string, Image[]> = {
     },
     {
       id: '14',
-      url: '/Public/Images/Street/Street (1).jpg',
+      url: '/public/Images/Street/Street (1).jpg',
       category: 'street',
       subcategory: 'urban',
       title: 'Urban Life',

@@ -95,10 +95,10 @@ const Home = () => {
 
 
   const showcaseImages = [
-    "/Public/Images/Street/Street (6).jpg",
-    "/Public/Images/Street/Street (4).jpg",
-    "/Public/Images/Street/Street (7).jpg",
-    "/Public/Images/Street/Street (5).jpg",
+    "/public/Images/Street/Street (6).jpg",
+    "/public/Images/Street/Street (4).jpg",
+    "/public/Images/Street/Street (7).jpg",
+    "/public/Images/Street/Street (5).jpg",
 
   ];
 

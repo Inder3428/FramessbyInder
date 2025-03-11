@@ -95,10 +95,10 @@ const Home = () => {
 
 
   const showcaseImages = [
-    "/public/Images/Street/Street (6).jpg",
-    "/public/Images/Street/Street (4).jpg",
-    "/public/Images/Street/Street (7).jpg",
-    "/public/Images/Street/Street (5).jpg",
+    "/Images/Street/Street (6).jpg",
+    "/Images/Street/Street (4).jpg",
+    "/Images/Street/Street (7).jpg",
+    "/Images/Street/Street (5).jpg",
 
   ];
 
@@ -158,7 +158,7 @@ const Home = () => {
             className="w-full h-full"
           >
             <img
-              src="/Public/Images/Potraits/IMG_2756.jpg"
+              src="/Images/Potraits/IMG_2756.jpg"
               alt="Background"
               className="w-full h-full object-cover opacity-78"
             />

@@ -17,7 +17,7 @@ const images: Record<string, Image[]> = {
   portraits: [
     {
       id: '1',
-      url: '/public/Images/Potraits/Laibadesi1.jpg',
+      url: '/Images/Potraits/Laibadesi1.jpg',
       category: 'portraits',
       subcategory: 'outdoor',
       title: 'Outdoor Portrait',
@@ -25,7 +25,7 @@ const images: Record<string, Image[]> = {
     },
     {
       id: '2',
-      url: '/public/Images/Potraits/laibadesi2.jpg',
+      url: '/Images/Potraits/laibadesi2.jpg',
       category: 'portraits',
       subcategory: 'outdoor',
       title: 'Outdoor Portrait',
@@ -33,7 +33,7 @@ const images: Record<string, Image[]> = {
     },
     {
       id: '3',
-      url: '/public/Images/Potraits/laibadesi3.jpg',
+      url: '/Images/Potraits/laibadesi3.jpg',
       category: 'portraits',
       subcategory: 'outdoor',
       title: 'Outdoor Portrait',
@@ -41,7 +41,7 @@ const images: Record<string, Image[]> = {
     },
     {
       id: '4',
-      url: '/public/Images/Potraits/laibadesi4.jpg',
+      url: '/Images/Potraits/laibadesi4.jpg',
       category: 'portraits',
       subcategory: 'outdoor',
       title: 'Outdoor Portrait',
